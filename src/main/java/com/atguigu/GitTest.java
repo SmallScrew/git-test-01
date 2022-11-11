@@ -7,10 +7,11 @@ package com.atguigu;
  * @date 2022/11/11 18:40
  **/
 
-public class git {
+public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("hello git2");
 
     }
 }
